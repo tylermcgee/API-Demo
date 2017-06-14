@@ -12,6 +12,7 @@
 		030BDCEC1EF07159002343DC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 030BDCEA1EF07159002343DC /* Main.storyboard */; };
 		030BDCEE1EF07159002343DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 030BDCED1EF07159002343DC /* Assets.xcassets */; };
 		030BDCF11EF07159002343DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 030BDCEF1EF07159002343DC /* LaunchScreen.storyboard */; };
+		030BDCF91EF0783E002343DC /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 030BDCF81EF0783E002343DC /* background.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		030BDCED1EF07159002343DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		030BDCF01EF07159002343DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		030BDCF21EF07159002343DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		030BDCF81EF0783E002343DC /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = background.jpg; path = ../../background.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				030BDCE81EF07159002343DC /* ViewController.swift */,
 				030BDCEA1EF07159002343DC /* Main.storyboard */,
 				030BDCED1EF07159002343DC /* Assets.xcassets */,
+				030BDCF81EF0783E002343DC /* background.jpg */,
 				030BDCEF1EF07159002343DC /* LaunchScreen.storyboard */,
 				030BDCF21EF07159002343DC /* Info.plist */,
 			);
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				030BDCF11EF07159002343DC /* LaunchScreen.storyboard in Resources */,
+				030BDCF91EF0783E002343DC /* background.jpg in Resources */,
 				030BDCEE1EF07159002343DC /* Assets.xcassets in Resources */,
 				030BDCEC1EF07159002343DC /* Main.storyboard in Resources */,
 			);
